@@ -22,3 +22,4 @@ Process: [Main](../tutorial/application-architecture.md#main-and-renderer-proces
 
 代表标签当前文字颜色的 字符串</ 0> 十六进制代码。 更改此值立即更新
 标签在触摸栏中。</p>
+
