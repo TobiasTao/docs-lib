@@ -1,6 +1,6 @@
 {
 	"electron": {
 		"version": "7.0.1",
-		"url": "https://raw.githubusercontent.com/TobiasTao/docs-lib/master/electron/README.md"
+		"url": "https://raw.githubusercontent.com/TobiasTao/docs-lib/master/electron/README.json"
 	}
 }
